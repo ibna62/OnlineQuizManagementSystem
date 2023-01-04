@@ -1,0 +1,13 @@
+	
+
+	1. The quiz time is 10 or 15 minutes.
+
+	2. Students are requested not to cheet.
+
+	3. Timer shows the time of quiz.
+
+	4. After finished the time, timer will be stop.
+
+	5. Questions will be in different ways.
+
+	6. Best of luck to all.
